@@ -92,7 +92,7 @@ const Home = (props: any) => {
             variant="filled"
             value={enteredValue}
             onChange={handleChange}
-            helperText="Example - 2000719"
+            helperText="Example - 2000718"
           />
 
           <br />
